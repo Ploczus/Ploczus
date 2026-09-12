@@ -1,16 +1,13 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Ploczus&label=Profile%20views&color=22C55E&style=flat" alt="Ploczus" />
+  <img src="https://komarev.com/ghpvc/?username=Ploczus&label=Profile%20views&color=F7A633&style=flat" alt="Ploczus" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Ploczus](https://readme-typing-svg.demolab.com?font=MINECRAFT&weight=700&size=26&pause=100&color=F7A633&width=435&lines=Ploczus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=MINECRAFT&weight=700&size=26&pause=100&color=F7A633&width=435&lines=Ploczus" alt="Typing SVG" />
 
   <br><br>
 
 </div>
-
-<h1 align="center">Hej! Jestem Ploczus</h1>
-<h4 align="center">[ Zajmuje sie tworzeniem pluginów do minecraft ]</h4>
 
 ## 🐦‍🔥 O mnie
 - 🌱 Prowadze serwer code **SWIRDEV.PL**
