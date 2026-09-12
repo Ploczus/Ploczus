@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Ploczus&label=Profile%20views&color=22c55e&style=flat" alt="Ploczus" />
+  <img src="https://komarev.com/ghpvc/?username=Ploczus&label=Profile%20views&color=22C55E&style=flat" alt="Ploczus" />
 </p>
 
 <div align="center">
@@ -12,8 +12,8 @@
 <h1 align="center">Hej! Jestem Ploczus</h1>
 <h4 align="center">[ Zajmuje sie tworzeniem pluginów do minecraft ]</h4>
 
-## 📗 O mnie
-- 🌱 Uczę się **HTML** i rozwijam się w **Java**
+## 🐦‍🔥 O mnie
+- 🌱 Prowadze serwer code **SWIRDEV.PL**
 - 💡 Tworzę pluginy i systemy pod Minecraft
 - 🚀 Stale rozwijam swoje umiejętności 
 
