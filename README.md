@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=MINECRAFT&weight=700&size=26&pause=100&color=F7A633&center=true&width=500&lines=Ploczus" alt="Typing SVG" />
 
-  <br><br>
+  <br>
 
 </div>
 
