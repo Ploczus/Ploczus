@@ -10,8 +10,8 @@
 </div>
 
 ## 🐦‍🔥 O mnie
-- 🌱 Prowadze serwer code **SWIRDEV.PL**
-- 💡 Tworzę pluginy i systemy pod Minecraft
+- 🌱 Założyciel serwera **SWIRDEV.PL** 
+- 💡 Tworze zaawansowane pluginy dla serwerów minecraft
 - 🚀 Stale rozwijam swoje umiejętności 
 
 <h3 align="left">Jezyki:</h3>
